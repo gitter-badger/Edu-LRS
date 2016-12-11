@@ -1,5 +1,7 @@
 # The Edu-Stack Learner Record Store (Edu-LRS).
 
+[![Join the chat at https://gitter.im/Edu-Stack/Edu-LRS](https://badges.gitter.im/Edu-Stack/Edu-LRS.svg)](https://gitter.im/Edu-Stack/Edu-LRS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/Edu-Stack/Edu-LRS.svg?branch=master)](https://travis-ci.org/Edu-Stack/Edu-LRS)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4bb608a853664a1898f5725646072659)](https://www.codacy.com/app/kevin_10/Edu-LRS?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Edu-Stack/Edu-LRS&amp;utm_campaign=Badge_Grade)
 [![Join the chat at https://gitter.im/Edu-Stack/Edu-LRS](https://badges.gitter.im/Edu-Stack/Edu-LRS.svg)](https://gitter.im/Edu-Stack/Edu-LRS?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
